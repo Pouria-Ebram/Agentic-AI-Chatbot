@@ -78,7 +78,6 @@ This project demonstrates how to build a chatbot using LangChain, LangGraph, and
 
 ## License
 
-
-## Author
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 Pouria Ebrahimnezhad
 06/04/2025
